@@ -1,0 +1,10 @@
+{
+  "name": "santraberita-auto-fetcher",
+  "version": "1.0.0",
+  "description": "Auto fetch berita untuk Santra Berita",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "node-fetch": "^3.3.2"
+  }
+}
